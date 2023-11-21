@@ -1,0 +1,9 @@
+﻿  UnitTest_LAB_13.1.cpp
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(8,17): error C2871: 'nsDod': a namespace with this name does not exist
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(9,17): error C2871: 'nsSum': a namespace with this name does not exist
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(10,17): error C2871: 'nsVar': a namespace with this name does not exist
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(14,16): error C2065: 'UnitTest1': undeclared identifier
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(14,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(15,5): error C2059: syntax error: '{'
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(15,5): error C2143: syntax error: missing ';' before '{'
+C:\Student\LAB_13.1\UnitTest_LAB_13.1\UnitTest_LAB_13.1.cpp(15,5): error C2447: '{': missing function header (old-style formal list?)
